@@ -1,6 +1,6 @@
-## Getting and Cleaning Data Project
+# Getting and Cleaning Data Project
 
-# Variables
+## Variables
 
 * `x_train`, `y_train`, `x_test`, `y_test`, `subject_train` and `subject_test` contain the data from the files part of the dataset.
 * `x_data`, `y_data` and `subject_data` merge the previous datasets for further analysis.
